@@ -1,0 +1,55 @@
+.img-responsive,
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+#jordon1 {
+    transition: 1000ms;
+    transform: rotate(0deg);
+}
+
+#vans1 {
+    transition: 1000ms;
+    transform: rotate(0deg);
+}
+
+#nike1 {
+    transition: 1000ms;
+    transform: rotate(0deg);
+}
+
+#reebok1 {
+    transition: 1000ms;
+    transform: rotate(0deg);
+}
+
+#and1 {
+    transition: 1000ms;
+    transform: rotate(0deg);
+}
+
+#jordon1:hover {
+    transform: rotate(360deg);
+    transition: 1000ms;
+}
+
+#and1:hover {
+    transform: rotate(360deg);
+    transition: 1000ms;
+}
+
+#reebok1:hover {
+    transform: rotate(360deg);
+    transition: 1000ms;
+}
+
+#nike1:hover {
+    transform: rotate(360deg);
+    transition: 1000ms;
+}
+
+#vans1:hover {
+    transform: rotate(360deg);
+    transition: 1000ms;
+}
